@@ -1,0 +1,31 @@
+* {
+    background-color: black;
+}
+
+
+
+.jaga {
+    color: rgb(0, 255, 72);
+    size: 98px;;
+    position: relative;
+    margin-top: 50px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 30px;    
+}
+
+button {
+   border: none;
+   color: blue;
+   font-weight: bold;
+   background-color: black;
+   
+}
+
+button:active {
+    color: rgb(243, 75, 9);
+    background-color: rgb(49, 36, 36);
+    padding: 0px 20px 0px 20px;
+}
+
